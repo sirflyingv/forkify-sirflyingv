@@ -11,12 +11,6 @@ import paginationView from './views/paginationView.js';
 import bookmarksView from './views/bookmarksView.js';
 import addRecipeView from './views/AddRecipeView.js';
 
-//  Parcel related code ⬇⬇⬇ for clearing console without reloading state
-// if (module.hot) {
-//   module.hot.accept();
-// }
-// https://forkify-api.herokuapp.com/v2
-
 ///////////////////////////////////////
 
 const controlRecipes = async function () {
