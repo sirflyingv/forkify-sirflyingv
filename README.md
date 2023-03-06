@@ -1,3 +1,5 @@
-# forkify Project
+### Forkify Project
 
-Recipe app from JS course
+Recipe app from Jonas Schmedtmann's Udemy JS course 
+
+Deployment: https://www.sirflyingv.info/forkify/
